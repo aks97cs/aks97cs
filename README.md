@@ -4,8 +4,7 @@
 - 🔭 I’m currently using Python as my Tech tool!
 - 🌱 I’m currently gaining the knowledge on fuctionality of human brain the way it learns the way it explore 
 - 🥅 Goals: Make our surrounding a better place 
-### Fun facts:
-##### I love to acquire knowledge on diverse subjects like 
+### My Interest:
 1. Philoshophy 
 2. Human psychology
 3. Spirituality
