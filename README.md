@@ -14,8 +14,8 @@ Make our surrounding a better place
 - Spirituality
 
 <a href="https://www.linkedin.com/in/anuj-singh-204345152/"> LinkedIn </a>
-Email : anuj.dev@hotmail.com
 
+> Email : anuj.dev@hotmail.com
 > Happy for colaboration and open source contribution 
 
 
