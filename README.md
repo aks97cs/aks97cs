@@ -13,10 +13,6 @@
 
 
 <br />
-
-
-![Anuj's github stats](https://github-readme-stats.vercel.app/api?username=aks97cs&show_icons=true&theme=merko)
-
 ---
 [linkedin]:  https://www.linkedin.com/in/anuj-singh-204345152/
 [github]: https://github.com/
