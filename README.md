@@ -15,7 +15,7 @@ Make our surrounding a better place
 
 <a href="https://www.linkedin.com/in/anuj-singh-204345152/"> LinkedIn </a>
 
-> Email : anuj.dev@hotmail.com
+> Email : anuj.dev@hotmail.com <br/>
 > Happy for colaboration and open source contribution 
 
 
